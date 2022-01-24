@@ -1,0 +1,16 @@
+C:\Users\ozges\source\repos\CsharpProject\Business\bin\Debug\netcoreapp3.1\Business.deps.json
+C:\Users\ozges\source\repos\CsharpProject\Business\bin\Debug\netcoreapp3.1\Business.dll
+C:\Users\ozges\source\repos\CsharpProject\Business\bin\Debug\netcoreapp3.1\Business.pdb
+C:\Users\ozges\source\repos\CsharpProject\Business\bin\Debug\netcoreapp3.1\DataAccess.dll
+C:\Users\ozges\source\repos\CsharpProject\Business\bin\Debug\netcoreapp3.1\Entities.dll
+C:\Users\ozges\source\repos\CsharpProject\Business\bin\Debug\netcoreapp3.1\DataAccess.pdb
+C:\Users\ozges\source\repos\CsharpProject\Business\bin\Debug\netcoreapp3.1\Entities.pdb
+C:\Users\ozges\source\repos\CsharpProject\Business\obj\Debug\netcoreapp3.1\Business.csproj.AssemblyReference.cache
+C:\Users\ozges\source\repos\CsharpProject\Business\obj\Debug\netcoreapp3.1\Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ozges\source\repos\CsharpProject\Business\obj\Debug\netcoreapp3.1\Business.AssemblyInfoInputs.cache
+C:\Users\ozges\source\repos\CsharpProject\Business\obj\Debug\netcoreapp3.1\Business.AssemblyInfo.cs
+C:\Users\ozges\source\repos\CsharpProject\Business\obj\Debug\netcoreapp3.1\Business.csproj.CoreCompileInputs.cache
+C:\Users\ozges\source\repos\CsharpProject\Business\obj\Debug\netcoreapp3.1\Business.dll
+C:\Users\ozges\source\repos\CsharpProject\Business\obj\Debug\netcoreapp3.1\Business.pdb
+C:\Users\ozges\source\repos\CsharpProject\Business\bin\Debug\netcoreapp3.1\Core.dll
+C:\Users\ozges\source\repos\CsharpProject\Business\bin\Debug\netcoreapp3.1\Core.pdb
